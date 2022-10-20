@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-iconLivreto.png",
         "backgroundColor": "#121214"
-      }
+      },
+      "package": "livreto.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
